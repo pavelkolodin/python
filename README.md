@@ -1,2 +1,5 @@
-# python
-some simple python examples
+# Start
+
+```
+python3 code.py
+```
